@@ -1,2 +1,1 @@
-# Prueba
-Repositorio de prueba
+proyecto prueba crear repositoroio y clonar
